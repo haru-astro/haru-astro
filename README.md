@@ -1,1 +1,3 @@
-#Hi there
+# I'm Haru
+***
+## Specilize in Python
